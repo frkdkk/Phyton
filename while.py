@@ -10,7 +10,7 @@ while mes!="quit":
     print(mes)
 
 while 5>3:
-    print("5 3'ten her zaman büyüktür") sonsuz döngü
+    print("5 3'ten her zaman büyüktür") #sonsuz döngü
 
 
 
