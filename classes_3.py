@@ -1,7 +1,5 @@
-#Instance Method
-#Class Mehod
-#Static Method
 
+#Instance Method - Class Method - Static Method
 
 class Student:
 
